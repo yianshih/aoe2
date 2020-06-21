@@ -1,0 +1,8 @@
+export const setSteamId = 'setSteamId'
+export const setProfile = 'setProfile'
+export const setName = 'setName'
+export const setPersonInfo = 'setPersonInfo'
+export const setSingleMap = 'setSingleMap'
+export const setTeamMap = 'setTeamMap'
+export const setUnranked = 'setUnranked'
+export const setFollowings = 'setFollowings'
